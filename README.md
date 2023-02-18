@@ -1,6 +1,6 @@
 # MovieApp
 
-## ***This site is temporarily down due to copyright restrictions (https://api.themoviedb.org/)***
+## ***This site is temporarily down due to copyright restrictions (api.themoviedb.org)***
 
 ## https://dangor220.github.io/movie-app/
 
